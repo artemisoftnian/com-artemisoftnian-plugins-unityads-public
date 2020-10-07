@@ -110,7 +110,7 @@ ShowBannerAd(bannerAdPlacementId, bannerPosition,  fn);
 
 //Manually Set UnityAds Privacy and GDPR consent (true|false)
 ManualGdprOpts( consent, fn);
-anualCcpaOpts( consent, fn);
+ManualCcpaOpts( consent, fn);
 ManualCustomAgeGates( useroveragelimit, fn);
 ```
 
